@@ -3,13 +3,12 @@
 
 ## Description
 
-undefined
+Are you tired of making ReadMe files for every project you make!? Well worry not, I have you covered. This is an application I made from scratch that will generate a readme for you using Node.js.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 - [Features](#features)
 - [Questions](#questions)
@@ -22,9 +21,6 @@ Once you have the application downloaded, you'll open a termainl on the file, th
 
 You will launch the terminal and type node index.js, follow the promts, and a readme file will be generated for you! 
 
-## Credits
-
-I did not. 
 
 ## License
 
