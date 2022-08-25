@@ -36,6 +36,6 @@ You can go to my github, and request the ability to make edits.
 
 ## Links
 
-GitHub: [github.com/jmg5369](https://www.github.com/github.com/jmg5369)
+GitHub: [github.com/jmg5369](https://github.com/jmg5369/ReadMe-Generator)
 
 Email: [jmg5369@gmail.com](mailto:jmg5369@gmail.com)
