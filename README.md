@@ -11,7 +11,7 @@ Are you tired of making ReadMe files for every project you make!? Well worry not
 - [Usage](#usage)
 - [License](#license)
 - [Features](#features)
-- [Questions](#questions)
+- [Links](#links)
 
 ## Installation
 
@@ -34,7 +34,7 @@ It is able to generate a readme file easily, so that when you are done with a pr
 
 You can go to my github, and request the ability to make edits. 
 
-## Questions
+## Links
 
 GitHub: [github.com/jmg5369](https://www.github.com/github.com/jmg5369)
 
