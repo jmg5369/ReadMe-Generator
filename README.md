@@ -11,6 +11,7 @@ Are you tired of making ReadMe files for every project you make!? Well worry not
 - [Usage](#usage)
 - [License](#license)
 - [Features](#features)
+- [Contribute](#contribute)
 - [Links](#links)
 
 ## Installation
