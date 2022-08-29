@@ -3,7 +3,7 @@
 
 ## Description
 
-Are you tired of making ReadMe files for every project you make!? Well worry not, I have you covered. This is an application I made from scratch that will generate a readme for you using Node.js.
+Are you tired of making ReadMe files for every project you make!? Well worry not, I have you covered. This is an application I made from scratch that will generate a readme for you using Node.js. Simply follow the usage instructions, then follow the promts, and a ReadMe file will be generated automatically for you! 
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@ Are you tired of making ReadMe files for every project you make!? Well worry not
 - [Features](#features)
 - [Contribute](#contribute)
 - [Links](#links)
+- [Examples](#examples)
 
 ## Installation
 
@@ -40,3 +41,11 @@ You can go to my github, and request the ability to make edits.
 GitHub: [github.com/jmg5369](https://github.com/jmg5369/ReadMe-Generator)
 
 Email: [jmg5369@gmail.com](mailto:jmg5369@gmail.com)
+
+## Examples
+
+Screenshots:
+
+Desktop:
+![Desktop view of application](./Assets/Screen%20Shot%202022-08-29%20at%2010.51.08%20AM.png)
+
