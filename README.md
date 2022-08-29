@@ -21,7 +21,7 @@ Once you have the application downloaded, you'll open a termainl on the file, th
 
 ## Usage
 
-You will launch the terminal and type node index.js, follow the promts, and a readme file will be generated for you! 
+Upon entering the code, launch the terminal, and type node index.js, follow the promts, and a readme file will be generated for you! 
 
 
 ## License
@@ -30,11 +30,14 @@ MIT
 
 ## Features
 
-It is able to generate a readme file easily, so that when you are done with a project, you don't have to do it entirely yourself. 
+- My ReadMe Generator is able to generate a readme file easily, so that when you are done with a project, you don't have to do it entirely yourself. 
+
+- It generates a readMe with a title, description, installation instructions, usage directions, collaborators, license, features, how to make contributions, email, and github information. 
+
 
 ## Contribute
 
-You can go to my github, and request the ability to make edits. 
+You can go to my github, and are free to fork over your own repo to create the changes you'd like to make. Please reach out once you'd like to push your edits so I'm able to review them. Thanks!
 
 ## Links
 
